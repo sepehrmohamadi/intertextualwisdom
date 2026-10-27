@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sepehrmohamadi.github.io/intertextualwisdom/en/intertextualwisdom/en/sitemap.xml
